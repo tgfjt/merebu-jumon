@@ -1,0 +1,5 @@
+name: merebu_jumon
+description: Merebu jumon
+version: 0.0.1
+dependencies:
+  html: any
